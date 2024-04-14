@@ -1,0 +1,3 @@
+[submodule "rails-nuxt-todo"]
+	path = rails-nuxt-todo
+	url = https://github.com/moriyoshiko/rails-nuxt-todo.git
