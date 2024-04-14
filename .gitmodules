@@ -1,9 +1,3 @@
-[submodule "rails-nuxt-todo"]
-	path = rails-nuxt-todo
-	url = https://github.com/moriyoshiko/rails-nuxt-todo.git
-[submodule "api"]
-	path = api
-	url = https://github.com/moriyoshiko/rails-nuxt-todo.git
 [submodule "railsAPI"]
 	path = railsAPI
 	url = https://github.com/moriyoshiko/railsAPI.git
